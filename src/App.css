@@ -1,0 +1,47 @@
+/* App styles */
+
+/* Leaving this page for potential universal selector configuration */
+
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg3{
+    width: 500px;
+    margin-right: 100px;
+    margin-top: 30px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg2{
+    width: 500px;
+    margin-top: 30px;
+}
+
+.bg1{
+    margin-top: 30px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 100px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-wrap{
+    display: flex;
+    flex-direction: row;
+}
+
+.app{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

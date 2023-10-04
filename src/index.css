@@ -1,0 +1,26 @@
+/* Index styles */
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+  background-image: url('./images/wallpaperflare.com_wallpaper.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1,
+p {
+  color: #73A5C6;
+  font-family: 'Montserrat', sans-serif;
+}

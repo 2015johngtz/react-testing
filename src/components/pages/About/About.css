@@ -1,0 +1,31 @@
+/* About styles */
+
+#hero {
+  overflow: hidden;
+  width: 100vw;
+  height: auto;
+}
+
+#hero img {
+  object-fit: contain;
+  object-position: center;
+  /* max-width: 100%; */
+  /* height: auto; */
+}
+
+#about-me-title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+#p-about {
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* .image-container{
+  position: "absolute";
+  bottom: "0px";
+  left: "0px";
+} */
